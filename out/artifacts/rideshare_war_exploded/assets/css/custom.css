@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Circular;
+  font-weight: bold;
+  src: local("Circular"), url("../fonts/CircularStd-Bold.otf") format("opentype"); }
+@font-face {
+  font-family: Circular;
+  font-weight: normal;
+  src: local("Circular"), url("../fonts/CircularStd-Book.otf") format("opentype"); }
+body {
+  font-family: 'Circular', sans-serif; }
+
+#login-form, #registration-form {
+  padding: 50px;
+  border: 1px solid #4c7cff; }
+
+a:hover {
+  text-decoration: none; }
+
+.content-row {
+  min-height: 100vh;
+  padding: 50px; }
+
+/*# sourceMappingURL=custom.css.map */

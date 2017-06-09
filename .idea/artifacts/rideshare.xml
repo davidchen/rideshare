@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rideshare">
+    <output-path>$PROJECT_DIR$/out/artifacts/rideshare</output-path>
+    <root id="archive" name="rideshare.war">
+      <element id="artifact" artifact-name="rideshare:war exploded" />
+    </root>
+  </artifact>
+</component>
